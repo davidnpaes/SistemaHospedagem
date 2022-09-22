@@ -1,0 +1,15 @@
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\SistemaDeHospedagem.csproj.AssemblyReference.cache
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\SistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\SistemaDeHospedagem.AssemblyInfoInputs.cache
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\SistemaDeHospedagem.AssemblyInfo.cs
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\SistemaDeHospedagem.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\SistemaDeHospedagem\bin\Debug\net6.0\SistemaDeHospedagem.exe
+C:\workspace\CSharp\SistemaDeHospedagem\bin\Debug\net6.0\SistemaDeHospedagem.deps.json
+C:\workspace\CSharp\SistemaDeHospedagem\bin\Debug\net6.0\SistemaDeHospedagem.runtimeconfig.json
+C:\workspace\CSharp\SistemaDeHospedagem\bin\Debug\net6.0\SistemaDeHospedagem.dll
+C:\workspace\CSharp\SistemaDeHospedagem\bin\Debug\net6.0\SistemaDeHospedagem.pdb
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\SistemaDeHospedagem.dll
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\refint\SistemaDeHospedagem.dll
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\SistemaDeHospedagem.pdb
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\SistemaDeHospedagem.genruntimeconfig.cache
+C:\workspace\CSharp\SistemaDeHospedagem\obj\Debug\net6.0\ref\SistemaDeHospedagem.dll
